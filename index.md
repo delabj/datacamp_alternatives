@@ -3,9 +3,9 @@
 ## Why This Exsists
 Datacamp is at it again. ([well, I say again, but this is really a continuation of what has been going on.](https://www.vice.com/en_us/article/8xzn3v/datacamp-ceo-steps-down-after-sexual-misconduct-allegations-prompt-backlash))
 
-To be clear Datacamp just announced that they are sueing Rstudio because Rstudio stood with the victim of sexual assult and they see this as defimation of the company from a competitor. [You can read Datacamps statement here](https://www.datacamp.com/community/blog/rstudio-pending-legal-matter)
+Datacamp just announced that they are sueing Rstudio because Rstudio stood with the a former employee who felt they were sexually assulted, and Datacamp see's this as defimation of the company from a competitor. [You can read Datacamps statement here](https://www.datacamp.com/community/blog/rstudio-pending-legal-matter)
 
-Datacamp is claiming to have debunked[ an article writen by a reporter at buzzfeed](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup) (now at the NYT covering tech and disinformation) [by conducting an independant and 3rd party review ](https://www.datacamp.com/community/blog/working-ideal-independent-third-party-review-of-datacamp) which found 
+Datacamp is claiming to have debunked [an article writen by a reporter at buzzfeed](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup) (now at the NYT covering tech and disinformation) [by conducting an independant 3rd party review ](https://www.datacamp.com/community/blog/working-ideal-independent-third-party-review-of-datacamp) which found 
 
 - " little factual dispute"
 - "not [...] appropriate or advisable"
