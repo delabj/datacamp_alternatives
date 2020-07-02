@@ -54,7 +54,7 @@ In light of the above, I'm compiling a list of resources that can be used instea
   + Honestly one of the best parts of my week is seeing Julia work with Tidymodels
   + posts, code, and videos
 
-# Data Viz
+### Data Viz
 - [Policy Viz Podcast](https://policyviz.com/)
 
 
