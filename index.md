@@ -45,7 +45,7 @@ In light of the above, I'm compiling a list of resources that can be used instea
 - [Practice with diverse datasets on \#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
   + Put your data skills to use and create content you can share to demonstrate understanding
   + Learn from others working on the same dataset
-- [The book R four data science](https://r4ds.had.co.nz/)
+- [The Book R for Data Science](https://r4ds.had.co.nz/)
   + It's free real estate
 - [R for Data Science Community](https://www.rfordatasci.com/) 
   + A community of people learning and teaching R. 
@@ -53,6 +53,7 @@ In light of the above, I'm compiling a list of resources that can be used instea
 - [Tidymodels with Julia Silge](https://juliasilge.com/blog/)
   + Honestly one of the best parts of my week is seeing Julia work with Tidymodels
   + posts, code, and videos
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 
 ### Data Viz
 - [Policy Viz Podcast](https://policyviz.com/)
