@@ -66,6 +66,12 @@ In light of the above, I'm compiling a list of resources that can be used instea
   + Very intro level
   + No software needed
   + Uses Python to access Big Query
+- [SQL Bolt](https://sqlbolt.com/)
+  + Fairly Intro Level
+  + Online/Interactve 
+ - [W3 SQL tutorial](https://www.w3schools.com/sql/)
+  + Very simple, fill in the blank style learning. 
+  + Good for reviewing
 
 ### Excel
 
