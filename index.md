@@ -61,6 +61,12 @@ In light of the above, I'm compiling a list of resources that can be used instea
 
 ### Python
 
+### SQL
+- [Kaggle's Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+  + Very intro level
+  + No software needed
+  + Uses Python to access Big Query
+
 ### Excel
 
 ### Web Development/Javascript
