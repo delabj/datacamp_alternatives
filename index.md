@@ -72,6 +72,7 @@ In light of the above, I'm compiling a list of resources that can be used instea
 - [W3 SQL tutorial](https://www.w3schools.com/sql/)
   + Very simple, fill in the blank style learning. 
   + Good for reviewing
+- [SQL-EX](https://www.sql-ex.ru/learn_exercises.php)
 
 ### Excel
 
