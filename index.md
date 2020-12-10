@@ -54,12 +54,17 @@ In light of the above, I'm compiling a list of resources that can be used instea
   + Honestly one of the best parts of my week is seeing Julia work with Tidymodels
   + posts, code, and videos
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+- [The Big Book of R](https://www.bigbookofr.com/)
+  + A big book with many more resources than I can reasonably list here
 
 ### Data Viz
 - [Policy Viz Podcast](https://policyviz.com/)
 
 
 ### Python
+- [Calm Code](https://calmcode.io/)
+  + Short videos and code snippets
+  + No experience points, paid-for certificates just calm tutorails
 
 ### SQL
 - [Kaggle's Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
