@@ -56,6 +56,9 @@ In light of the above, I'm compiling a list of resources that can be used instea
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [The Big Book of R](https://www.bigbookofr.com/)
   + A big book with many more resources than I can reasonably list here
+- [Teacup giraffes and stats](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html)
+  + A gentle introduction to statistics and R with live code examples. 
+
 
 ### Data Viz
 - [Policy Viz Podcast](https://policyviz.com/)
