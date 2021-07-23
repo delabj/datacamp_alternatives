@@ -40,7 +40,7 @@ In light of the above, I'm compiling a list of resources that can be used instea
   + Many videos demonstrating how to work with data in R
   + Videos on how to do generative art withR
 - [Complex Human Data Summer School](https://chdsummerschool.com/index.html)
-- [The ggplot2 book](https://ggplot2-book.org/]
+- [The ggplot2 book](https://ggplot2-book.org/)
   + A free digital version of the ggplot2 book by Hadley Wickham
 - [Practice with diverse datasets on \#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
   + Put your data skills to use and create content you can share to demonstrate understanding
